@@ -1,0 +1,28 @@
+# Retail Banking Customer Segmentation & Predictive Targeting
+
+## Overview
+Analyzed a real bank marketing dataset to identify which customers are most 
+likely to subscribe to a savings product. Built a logistic regression model 
+to predict subscription probability and optimize marketing ROI.
+
+## Business Problem
+Which customers should a bank target to maximize marketing conversion rates 
+and return on investment?
+
+## Tools & Technologies
+- Python, Pandas, Scikit-learn, Seaborn, Matplotlib
+- Logistic Regression, One-Hot Encoding
+- Exploratory Data Analysis
+
+## Key Findings
+- Customers aged 60+ with high account balances had the highest conversion rates
+- Cellular contact methods outperformed other channels
+- Repeated contacts reduced conversion — diminishing returns after 3 contacts
+
+## Project Structure
+- notebook.ipynb — full analysis and model
+- data/ — dataset
+- README.md — project overview
+
+## Status
+Code rebuild in progress — May 2026
